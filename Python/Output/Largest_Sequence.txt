@@ -1,0 +1,11 @@
+Item Set	Size	Frequency
+Front-page,News,Tech,Local,Opinion,on-air,Misc,Sports	8	119138
+Front-page,News,Tech,Local,Opinion,on-air,Misc	7	119139
+Front-page,News,Tech,Local,Opinion,on-air,Sports	7	119138
+Front-page,News,Tech,Local,Opinion,Misc,Sports	7	119138
+Front-page,News,Tech,Local,on-air,Misc,Sports	7	119138
+Front-page,News,Tech,Opinion,on-air,Misc,Sports	7	119138
+Front-page,News,Local,Opinion,on-air,Misc,Sports	7	119138
+Front-page,Tech,Local,Opinion,on-air,Misc,Sports	7	119138
+News,Tech,Local,Opinion,on-air,Misc,Sports	7	119138
+Front-page,News,Tech,Local,on-air,Misc	6	119164

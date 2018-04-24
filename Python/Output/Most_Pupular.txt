@@ -1,0 +1,11 @@
+Element	Frequency
+Front-page	1336349
+News	848267
+on-air	810808
+Local	782097
+Misc	701495
+Tech	603359
+Opinion	547289
+Weather	439398
+Sports	395880
+Business	264899

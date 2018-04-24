@@ -1,0 +1,11 @@
+Item Set	Frequency
+Front-page	393493
+on-air	325121
+News	275460
+Front-page,Front-page	241021
+Tech	231500
+Local	228143
+Misc	188361
+Front-page,News	179217
+Front-page,Front-page,Front-page	155451
+News,News	154753
